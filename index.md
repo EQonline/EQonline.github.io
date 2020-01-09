@@ -5,6 +5,6 @@
     <body>
         <h1>Equilibria</h1>
         <h2>A goverment system for the people.</h2>
-        <img1 src="img/temp1.jpg"  >
+        <img src="img/temp1.jpg" width=auto >
     </body>    
 </html>
