@@ -11,7 +11,7 @@ h1{
     font-size:72px; 
     color: #ffff;   
     text-align: center;
-    display:flex; 
+    border: 0px;
 }
 h2{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
