@@ -5,5 +5,6 @@
     <body>
         <h1>Equilibria</h1>
         <h2>A goverment system for the people.</h2>
+        <p>Equilbrianism is a goverment system that cares for the every day man and not big corperations</p>
     </body>    
 </html>
