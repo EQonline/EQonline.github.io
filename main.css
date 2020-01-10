@@ -3,7 +3,7 @@ body {
     background-position: top;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: 100% 10%;
+    background-size: 100% auto;
 }
 
 h1{
@@ -11,11 +11,12 @@ h1{
     font-size:72px; 
     color: #ffff;   
     text-align: center;
-    border-bottom-width:0;
+    border-bottom-width:thick;
 }
 h2{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size:72px; 
     color: #ffff;   
     text-align: center;
+    border-bottom-width:thick;
 }
