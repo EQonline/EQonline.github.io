@@ -25,19 +25,20 @@ p{
 }
 
 #initial{
-    position: inherit;
+    position: absolute;
     top: 25%;
-    left: 50%;
+    align-self: center
 }
 
 #explanation{
-    position: inherit;
+    position: absolute;
     top: 75%; 
     left: 50%;
+    align-self: center
 }
 
 #logo{
-    position: inherit;
+    position: absolute;
     top: 35%;
     left: 35%;
     width: 10%;
