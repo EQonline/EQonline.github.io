@@ -26,7 +26,7 @@ p{
 
 #initial{
     position: absolute;
-    top: 35%;
+    top: 25%;
 }
 
 #explanation{
@@ -35,11 +35,9 @@ p{
 }
 
 #logo{
-    position: absolute:
+    position: absolute;
     top: 35%;
+    left: 40%;
     width: 10%;
     height:auto;
-    transform-origin: left, 40%;
-    
-
 }
