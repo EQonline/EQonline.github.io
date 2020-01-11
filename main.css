@@ -25,21 +25,21 @@ p{
 }
 
 #initial{
-    position: absolute;
+    position: inherit;
     top: 25%;
     left: 50%;
 }
 
 #explanation{
-    position: absolute;
+    position: inherit;
     top: 75%; 
     left: 50%;
 }
 
 #logo{
-    position: absolute;
+    position: inherit;
     top: 35%;
-    left: 40%;
+    left: 35%;
     width: 10%;
     height:auto;
 }
