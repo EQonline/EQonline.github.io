@@ -24,3 +24,21 @@ p{
     color: #ffff;   
     text-align: center;
 }
+
+#initial{
+    position: absolute;
+    top: 35%;
+}
+
+#explanation{
+    position: absolute;
+    top: 60%; 
+}
+
+#logo{
+    position: absolute:
+    top: 35%;
+    width: 5%;
+    height:auto;
+
+}
