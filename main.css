@@ -27,14 +27,14 @@ p{
 #initial{
     position: absolute;
     top: 25%;
-    align-self: center
+    text-align:center
 }
 
 #explanation{
     position: absolute;
     top: 75%; 
     left: 50%;
-    align-self: center
+   text-align:center
 }
 
 #logo{
