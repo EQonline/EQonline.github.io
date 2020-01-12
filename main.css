@@ -49,3 +49,11 @@ p{
     height:auto;
     margin-left: -10%;
 }
+
+#learnMore {
+    background-color: white;
+    border: 1px;
+    border-color: coral;
+    color: white;
+    padding: 15px 32px;
+}
