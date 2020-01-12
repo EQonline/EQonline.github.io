@@ -17,10 +17,7 @@ h2{
     color: #ffff;   
     text-align: center;
 }
-p{
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size:18px; 
-    color: #ffff;   
+p{   
     text-align: center;
 }
 
@@ -28,8 +25,8 @@ p{
     position: absolute;
     top: 25%;
     left: 50%;
-    width: 30%;
-    margin-left: -15%;
+    width: 45%;
+    margin-left: -22.5%;
 }
 
 #explanation{
@@ -38,13 +35,17 @@ p{
     left: 50%;
     width: 30%;
     margin-left: -15%;
+    
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size:18px; 
+    color: black;
 }
 
 #logo{
     position: absolute;
-    top: 25%;
-    left: 25%;
+    top: 20%;
+    left: 15%;
     width: 20%;
     height:auto;
-    margin-left: 10%;
+    margin-left: -10%;
 }
