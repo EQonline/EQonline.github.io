@@ -29,7 +29,7 @@ p{
     top: 25%;
     left: 50%;
     width: 30%;
-    margin-left: 15%;
+    margin-left: -15%;
 }
 
 #explanation{
@@ -37,7 +37,7 @@ p{
     top: 75%; 
     left: 50%;
     width: 30%;
-    margin-left: 15%;
+    margin-left: -15%;
 }
 
 #logo{
