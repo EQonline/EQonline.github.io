@@ -27,13 +27,17 @@ p{
 #initial{
     position: absolute;
     top: 25%;
-    left: 33.3%;
+    left: 50%;
+    width: 30%;
+    margin-left: 15%;
 }
 
 #explanation{
     position: absolute;
     top: 75%; 
-    left: 33.3%;
+    left: 50%;
+    width: 30%;
+    margin-left: 15%;
 }
 
 #logo{
@@ -42,4 +46,5 @@ p{
     left: 25%;
     width: 20%;
     height:auto;
+    margin-left: 10%;
 }
