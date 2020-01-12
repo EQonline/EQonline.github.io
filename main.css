@@ -50,10 +50,11 @@ p{
     margin-left: -10%;
 }
 
-#learnMore {
+#LearnMore {
     background-color: white;
-    border: 1px;
-    border-color: coral;
-    color: white;
-    padding: 15px 32px;
+    border: coral;
+    border-width: : 1px;
+    border-style: solid;
+    color: coral;
+    padding: 10px 10px;
 }
