@@ -27,19 +27,19 @@ p{
 #initial{
     position: absolute;
     top: 25%;
-    text-align: center;
+    left: 33.3%;
 }
 
 #explanation{
     position: absolute;
     top: 75%; 
-    text-align: center;
+    left: 33.3%;
 }
 
 #logo{
     position: absolute;
-    top: 35%;
-    left: 35%;
-    width: 10%;
+    top: 25%;
+    left: 25%;
+    width: 20%;
     height:auto;
 }
