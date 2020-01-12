@@ -27,14 +27,13 @@ p{
 #initial{
     position: absolute;
     top: 25%;
-    text-align:center
+    left: 50%;
 }
 
 #explanation{
     position: absolute;
     top: 75%; 
     left: 50%;
-   text-align:center
 }
 
 #logo{
