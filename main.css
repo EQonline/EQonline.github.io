@@ -1,14 +1,14 @@
 body {
     background-image: url("img/pots.jpg");
     background-position: top;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-repeat: no-repeat;
     background-size: 100% auto;
 }
 
 h1{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size:72px; 
+    font-size:100px; 
     color: #ffff;   
     text-align: center;
 }
@@ -23,9 +23,9 @@ p{
 
 #initial{
     position: absolute;
-    top: 25%;
+    top: 20%;
     left: 50%;
-    width: 45%;
+    width: 50%;
     margin-left: -22.5%;
 }
 
