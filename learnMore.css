@@ -1,5 +1,5 @@
 body {
-    background-image: url("img/pots.jpg");
+    //background-image: url("img/pots.jpg");
     background-position: top;
     background-attachment: scroll;
     background-repeat: no-repeat;
@@ -19,18 +19,22 @@ h3{
     text-align: center;
 }
 
-h4{
+h4{ 
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
-    color: #ffff;   
-    text-align: center;
+    color:coral;    
+    width: 10%%;
+    position: absolute;
+    margin-left: -5%;
+    left: 20%;
+    top: -7.5%;
 }
 
 .Ideology{
     width: 40%;
     height:10%;
-    border:black;
-    border-width: 1px;
-    
+    border-style: solid;
+    border-width: 2px;
+    border-color: coral;
     position: absolute;
     left: 50%;
     
@@ -39,10 +43,21 @@ h4{
 
 .IdeologyDescription{
     text-align: left;
-    font-size: 70%;
+    font-size: 100%%;
+    color:coral; 
+    width: 40%;
+    height:10%;
+    position: absolute;
+    margin-left: -10%;
+    left: 25%;
+    top: 12.5%;
 }
 
 .Symbol{
-    width: 10%;
-    height: auto;
+    position: absolute;
+    width: 12.5%;
+    height: auto;    
+    left:6.5%;   
+    top: -1%;
+    margin-left: -5%;
 }
