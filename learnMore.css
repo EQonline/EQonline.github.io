@@ -8,9 +8,10 @@ body {
 
 h1{
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 550%; 
-    color: #ffff;   
+    font-size: 400%; 
+    color: coral;   
     text-align: center;
+    
 }
 
 h3{
@@ -37,7 +38,6 @@ h4{
     border-color: coral;
     position: absolute;
     left: 50%;
-    
     margin-left: -20%;
 }
 
@@ -60,4 +60,25 @@ h4{
     left:6.5%;   
     top: -1%;
     margin-left: -5%;
+}
+
+
+#Non-Monetary{
+    top: 10%;
+}
+
+#Classless{
+     top: 22%;
+}
+
+#Decentralized{
+    top: 34%;
+}
+
+#Meritism{
+    top: 46%;
+}
+
+#Basic-Needs{
+    top: 58%;
 }
