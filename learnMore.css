@@ -1,0 +1,48 @@
+body {
+    background-image: url("img/pots.jpg");
+    background-position: top;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+h1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 550%; 
+    color: #ffff;   
+    text-align: center;
+}
+
+h3{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    color: #ffff;   
+    text-align: center;
+}
+
+h4{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    color: #ffff;   
+    text-align: center;
+}
+
+.Ideology{
+    width: 40%;
+    height:10%;
+    border:black;
+    border-width: 1px;
+    
+    position: absolute;
+    left: 50%;
+    
+    margin-left: -20%;
+}
+
+.IdeologyDescription{
+    text-align: left;
+    font-size: 70%;
+}
+
+.Symbol{
+    width: 10%;
+    height: auto;
+}
