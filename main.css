@@ -42,9 +42,9 @@ p{
 }
 
 #logo{
-    position: relative;
-    bottom: 45%;
+    position: absolute;
     left: 15%;
+    top: 25%;
     width: 20%;
     height:auto;
     margin-left: -10%;
